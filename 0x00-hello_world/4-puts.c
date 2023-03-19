@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * first c program
+ *main-main is the ent rypoint
+ *return:always 0 (sucsses)
  */
 int main(void)
 {
